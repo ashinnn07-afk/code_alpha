@@ -116,6 +116,6 @@ The Educational Dashboard provides insights into student outcomes, dropout trend
 ---
 
 # Author
-
+A. Ashin
 Your Name  
 Power BI Developer | Data Analyst  
